@@ -11,13 +11,13 @@ Search and filter any hashtag you want with Twitter Api using PHP.
   TwitterOAuth($consumer_key,$consumer_secret,$access_token,$access_token_secret);
 ```
 
-| Key | Description     | 
-| :-------- | | :-------- |
+| Parametre | Tip     |
+| :-------- | :------- | 
+| `id`      | `string` | 
 | `$consumer_key = "";`||Your consumer key|
-`$consumer_secret = "";`||Your consumer_secret key|
-`$access_token = "";`||Your access token|
-`$access_token_secret = "";`||Your access_token_secret|
-
+`$consumer_secret = "";`|Your consumer_secret key
+`$access_token = "";`|Your access token
+`$access_token_secret = "";`|Your access_token_secret
 
 
 #### Get Data
